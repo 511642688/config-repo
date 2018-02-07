@@ -1,1 +1,2 @@
-myww= test myww
+myww:
+  test myww
